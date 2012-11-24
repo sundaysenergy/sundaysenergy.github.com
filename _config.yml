@@ -12,7 +12,7 @@ pygments: true
 title : Sundays Energy
 tagline: Sustainability, Design, Technology
 author :
-  name : Kai Curry
+  name : Sundays Energy
   email : info@sundaysenergy.com
   github : sundaysenergy
   twitter : sundaysenergy
@@ -99,7 +99,7 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-1196777-1'
     getclicky :
       site_id :
     mixpanel :
