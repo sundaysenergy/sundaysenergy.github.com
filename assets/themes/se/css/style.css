@@ -16,7 +16,10 @@ body{
 
 /*********************************header*************************************/
 
-header {width:100%; padding:80px 0 60px;}
+header {
+  width: 100%;
+  padding: 50px 0 60px;
+}
   header .indent-bottom {padding-bottom:14px; margin-bottom:0;}
     #page1 header .indent-bottom {padding-bottom:18px; margin-bottom:94px;}
   header .indents {padding:21px 0 22px;}
@@ -50,17 +53,32 @@ h1 {float:left;}
       .social-icons a:hover{background-position:center -35px;}
       .social-icons a.icon-3{background-image:url(../images/twitter.png);}
       .social-icons a.icon-4{background-image:url(../images/facebook.png); width:23px;}
+
 /********************************* Content **********************************/
+
 #content{width:100%; padding-bottom:85px;}
 
 /* ---------- Titles ---------*/
-h3{font:bold 26px/32px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#eca637; text-transform:uppercase;}
-h4{font:bold 20px/24px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#eca637; text-transform:uppercase;}
-  h4 a{color:inherit; text-decoration:none;}
-    h4 a:hover{text-decoration:underline; color:#7b7572;}
-h6{font:normal 13px/18px Arial, Helvetica, sans-serif; color:#eca637;}
-  h6 a{color:inherit; text-decoration:none;}
-    h6 a:hover{text-decoration:underline; color:#7b7572;}
+
+h2 {
+  font:bold 26px/32px "Trebuchet MS", Arial, Helvetica, sans-serif;
+  color:#eca637;
+  margin-bottom: .75em;
+  margin-top: .75em;
+  text-transform:uppercase;
+}
+
+h3 {
+  font:bold 20px/24px "Trebuchet MS", Arial, Helvetica, sans-serif;
+  color:#eca637;
+  margin-top: .5em;
+  text-transform:uppercase;
+}
+  h3 a{color:inherit; text-decoration:none;}
+    h3 a:hover{text-decoration:underline; color:#7b7572;}
+h5{font:normal 13px/18px Arial, Helvetica, sans-serif; color:#eca637;}
+  h5 a{color:inherit; text-decoration:none;}
+    h5 a:hover{text-decoration:underline; color:#7b7572;}
 
 /*---------- Columns --------*/
 .col-4{float:right; width:300px;}
@@ -241,7 +259,7 @@ footer{
   p, .p3, .p3-1{margin-bottom:15px}
     .p4-1, .p5, .p5-1, .p6, .p6-1, .p7, .p7-1, .p8, .p8-1, .p9, .p9-1, .p10, .p10-1{margin-bottom:20px;}
     .p12, .p13, .p14{margin-bottom:30px;}
-    h3{margin-bottom:15px !important;}
+    h2{margin-bottom:15px !important;}
   .img-indent:not(.img-indent-none-tp) img{width:auto;}
   .col-4{width:236px;}
   .indent-top1, .indent-top2{padding-top:0;}

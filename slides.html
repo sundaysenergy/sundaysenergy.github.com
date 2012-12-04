@@ -1,0 +1,16 @@
+---
+layout: page
+title: Slides
+group: nav
+---
+{% include JB/setup %}
+
+{% for node in site.pages %}
+  {% if node.group == 'slide' %}
+    <div class="slide">
+      <img src="{{ ASSET_PATH }}/images/{{node.img}}" alt="{{node.title}}">
+      <div class="caption"><a href="{{node.url}}">{{node.url-text}}</a></div>
+    </div>
+  {% endif %}
+{% endfor %}
+
