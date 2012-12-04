@@ -1,7 +1,8 @@
 html,body{
   height:100%;
 }
-body{
+body,
+body #page-wrapper {
   background: url(../images/body.gif) top center repeat;
   font:13px/18px Arial, Helvetica, sans-serif;
   color:#7b7572;
@@ -158,6 +159,9 @@ a[href^="tel:"]{color: inherit; text-decoration:none;}
 }
 /*---------- Lists -----------*/
 .last-item{margin-right:0 !important; margin-bottom:0 !important;} 
+#content ul li {
+  background:url(../images/marker-1.png) 0 -96px no-repeat;
+}
 .list-1 li{
   font:13px/18px Arial, Helvetica, sans-serif;
   color:#eca637;
@@ -168,14 +172,16 @@ a[href^="tel:"]{color: inherit; text-decoration:none;}
     color:inherit;
     text-decoration:none;
     padding-left:21px;
-    background:url(../images/marker-1.png) 0 -96px no-repeat;
   }
     .list-1 a:hover{
       text-decoration:underline;
       color:#7b7572;
       background-position:0 4px;
     }
-.list-2 li{overflow:hidden; margin-bottom:20px;}
+.list-2 li{
+  overflow:hidden;
+  margin-bottom:20px;
+}
   .list-2 .term{float:left; width:43px;}
     .list-2 .term a:hover{text-decoration:none; color:#7b7572;}
 .list-3 li{
@@ -184,12 +190,13 @@ a[href^="tel:"]{color: inherit; text-decoration:none;}
   border-bottom:1px solid #36302d;
   margin-bottom:16px;
 }
-  .list-3 li.icon-1{background:url(../images/list3-icon1.png) 1px 4px no-repeat;}
-  .list-3 li.icon-2{background:url(../images/list3-icon2.png) 0 4px no-repeat;}
-  .list-3 li.icon-3{background:url(../images/list3-icon3.png) 0 4px no-repeat;}
-  .list-3 li.last-item{border-bottom:none; padding-bottom:0;}
-  .list-3 a{color:inherit; text-decoration:none;}
-    .list-3 a:hover{text-decoration:underline; color:#eca637;}
+.list-3 li.icon-1{background:url(../images/list3-icon1.png) 1px 4px no-repeat;}
+.list-3 li.icon-2{background:url(../images/list3-icon2.png) 0 4px no-repeat;}
+.list-3 li.icon-3{background:url(../images/list3-icon3.png) 0 4px no-repeat;}
+
+.list-3 li.last-item{border-bottom:none; padding-bottom:0;}
+.list-3 a{color:inherit; text-decoration:none;}
+.list-3 a:hover{text-decoration:underline; color:#eca637;}
 /*---------- Borders ---------*/
 .border-top{background:url(../images/border.png) 0 top repeat-x;}
 .border-bottom{background:url(../images/border.png) 0 bottom repeat-x;}
