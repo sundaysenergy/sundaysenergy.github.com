@@ -12,7 +12,7 @@ We collaborate with clients to create original, valuable web projects using the 
 
 With the power of Drupal, we fashion user-friendly ways to manage your website. And clients are encouraged to manage their site as much as they like.
 
-## Services / Products
+### Services / Products
 
 * Drupal Support
 * Drupal Commerce
