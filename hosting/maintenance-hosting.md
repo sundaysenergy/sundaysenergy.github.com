@@ -8,7 +8,7 @@ group: hosting
 
 ## Recommended Hosting for Drupal Maintenance Accounts
 
-Maintaining Drupal sites hosted on others servers is almost always inconvenient and consumes unnecessary time. This is because the development process would likely be on our servers while the live site remains on your current host. In some cases this is possible, but rarely is it cost effective. To have a great system for updating and working with changes, we prefer to have both the live and development sites on the same hosting platform.
+Maintaining Drupal sites hosted on other servers is almost always inconvenient and consumes unnecessary time. This is because the development process would likely be on our servers while the live site remains on your current host. In some cases this is possible, but rarely is it cost effective. To have a great system for updating and working with changes, we prefer to have both the live and development sites on the same hosting platform.
 
 Since your host likely works with all types of websites, they are not designed for the unique requirements of Drupal. Moving to a host that specializes in only Drupal websites helps with many things (and doesn't cost that much more). One of the management software tools we use is the [Aegir system](http://www.aegirproject.org). It helps coordinate development and site upgrades. Almost all sites load much faster than before simply because of switching the type of hosting.
 
