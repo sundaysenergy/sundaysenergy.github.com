@@ -16,7 +16,7 @@ $25/mo or $250/yr
 Free with 1 hour monthly retainer for services.
 
 ### Static Hosting
-$40/yr
+$40/yr or $50/yr with domain name.
 
 ### Domain Names
 $15/yr

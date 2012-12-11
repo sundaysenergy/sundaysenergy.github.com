@@ -10,7 +10,7 @@ group: hosting
 
 The good news is that we specialize in helping keep Drupal sites running. We have a few options for you.
 
-The short answer is, for $199 we will move your site onto our servers. The price includes moving the site and four months of hosting. We will require some additional action be taken, mainly applying updates. You will not have to worry about using too many resources and we **will not** turn your site off unless it's been compromised and/or is serving illegal materials.
+The short answer is, for $199 we will move your site onto our servers. The price includes moving the site and four months of standard hosting. We will require some additional action be taken, mainly applying updates. You will not have to worry about using too many resources and we **will not** turn your site off unless it's been compromised and/or is serving illegal materials.
 
 Your site is running Drupal 5.x, which was current in 2009. In the time since your site was developed, Drupal 5 is no longer an active platform. You can see the official "End of Life Announcement" (made January 11th, 2011) here: http://drupal.org/node/1027214
 
