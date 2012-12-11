@@ -16,4 +16,6 @@ $25/mo or $250/yr
 Free with 1 hour monthly retainer for services.
 
 ### Domain Names
-$15/yr or Free with hosting paid in year increments.
+$15/yr
+$10/yr when paid with annual static hosting bill.
+FREE when Standard or Commerce hosting bills are paid in year increments.
