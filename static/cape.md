@@ -1,6 +1,7 @@
 ---
-
-
+layout: page
+title: Static benefits
+header: Pages
 
 ---
 
