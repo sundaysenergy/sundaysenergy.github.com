@@ -14,7 +14,7 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The internet
 * [Site 44](http://www.site44.com)
 * [Scriptogram](http://scriptogr.am)
 * [Pancacke io](http://pancake.io)
-* [DopPages](http://droppages.com)
+* [DropPages](http://droppages.com)
 
 ### Script Hosting
 
@@ -33,7 +33,7 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The internet
 
 * [Twilio](http://www.twilio.com) Awesome API Telephony and SMS
 * [MailChimp](http://mailchimp.com) 2,000 subscribers, 12,000/mo
-* Campaign Monitor (CreateSend)
+* http://www.campaignmonitor.com/ ("CreateSend" reseller option)
 
 ### Comments
 
@@ -52,12 +52,16 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The internet
 * [Stripe](https://stripe.com* ) **2.9% + $0.30** Programmer based, easy to create an account. Has coupons, order obj, order-item obj.
 * [BrainTree](https://www.braintreepayments.com) **2.9% + $0.30** More difficult to get an account.
 * [Dwolla](https://www.dwolla.com)
-* Google Wallet
+* http://www.google.com/wallet/
 * [Paypal](https://www.paypal.com)
 
 ### Dunning
 
 * http://bestunning.net
+
+### Recurring Payments
+
+* http://chargify.com/
 
 ### Calendar
 
@@ -70,24 +74,24 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The internet
 
 ### Analytics
 
-* RJ Metrics
+* https://www.rjmetrics.com/
 * http://lessneglect.com
 * https://www.custora.com
 
 ### Email delivery
 
-* http://sendgrid.com
-* Mandrill (Offers SMTP)
+* http://sendgrid.com/
+* http://mandrill.com/ (offers SMTP)
 
 ### Project Management
 
 * https://sprint.ly
-* Trello
+* https://trello.com/
 
 ### File sharing and storage
-* Dropbox
-* Google Drive
-* https://www.box.com
+* https://www.dropbox.com/
+* https://drive.google.com/
+* https://www.box.com/
 
 ### Search
 * http://www.tipue.com/search/
@@ -100,6 +104,7 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The internet
 ### Themes
 * http://twitter.github.com/bootstrap/
 * https://wrapbootstrap.com
+* http://www.templatemonster.com/
 
 ### Temporary Splash Pages
 * [Launchrock](http://launchrock.com)
