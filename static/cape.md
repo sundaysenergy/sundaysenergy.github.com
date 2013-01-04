@@ -5,6 +5,16 @@ header: Pages
 
 ---
 
+# The problems with content management systems 
+
+## Complexity and Cost
+
+Using Drupal or Wordpress requires software to be running on a server to dynamically build each page request. So every time a user wants to visit a page, the server has to build it first. The software that does this builds each page dynamically, and requires constant updates and has a lot of "moving parts". The cost to keep all of those parts moving all the time is high. Therefore, the cost to host a website like this will be much more expensive than a static site.
+
+## Constraints on Content Creation
+
+With a typical CMS, content can only be created via that website. The method for adding content was designed to be like a “desktop” type device that was connected to the internet. This approach was fine when everyone did everything on a desktop computer. But now content creators have all kinds of devices they like to use for content creation. A good example is the iPad. It’s clumsy editing content via a website, and it's a much nicer experience using a native app that is a content editor.
+
 # Why switch to Create Anywhere Publish Everywhere (CAPE)?
 
 ## Performance
@@ -31,8 +41,9 @@ The web is responsive by nature. Responsive design gets really difficult to acco
 
 Desktop applications, web applications, mobile applications. All devices can by sources of content. Why limit yourself to creating content to a single place focused toward a single device.
 
-## Don't Repeat Yourself (DRY)
+## Don't Repeat Yourself or Reinvent the Wheel
 
+Don't Repeat Yourself (DRY) is a principle of software development aimed at reducing repetition of information of all kinds. To reinvent the wheel is to duplicate a basic method that has already previously been created or optimized by others. We think that CAPE avoids both of these pitfalls.
 
 ## Drupal is Slow and Complicated
 
