@@ -33,7 +33,7 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The internet
 
 * [Twilio](http://www.twilio.com) Awesome API Telephony and SMS
 * [MailChimp](http://mailchimp.com) 2,000 subscribers, 12,000/mo
-* http://www.campaignmonitor.com/ ("CreateSend" reseller option)
+* [Campaign Monitor](http://www.campaignmonitor.com/) ("CreateSend" reseller option)
 
 ### Comments
 
