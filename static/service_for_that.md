@@ -62,6 +62,8 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The internet
 ### Recurring Payments
 
 * [Chargify](http://chargify.com/)
+* [Recurly](http://recurly.com/)
+* [Stripe](https://stripe.com/)
 
 ### Calendar
 
