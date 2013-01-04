@@ -43,7 +43,7 @@ Desktop applications, web applications, mobile applications. All devices can by 
 
 ## Don't Repeat Yourself or Reinvent the Wheel
 
-Don't Repeat Yourself (DRY) is a principle of software development aimed at reducing repetition of information of all kinds. To reinvent the wheel is to duplicate a basic method that has already previously been created or optimized by others. We think that CAPE avoids both of these pitfalls.
+Don't Repeat Yourself (DRY) is a principle of software development aimed at reducing repetition of information of all kinds. To reinvent the wheel is to duplicate a basic method that has already previously been created or optimized by others. We think that CAPE helps website users and managers avoid both of these pitfalls.
 
 ## Drupal is Slow and Complicated
 
