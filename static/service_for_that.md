@@ -7,6 +7,7 @@ group: nav
 ---
 ## There is a service for that
 
+Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The internet has services.
 
 ### Dropbox Hosting
 
