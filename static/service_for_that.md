@@ -19,10 +19,10 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The internet
 ### Script Hosting
 
 * [Webscript](https://www.webscript.io)
-  * http://mirven.github.com/underscore.lua/
+  * [Lua Underscore](http://mirven.github.com/underscore.lua)
 * [If This Than That](https://ifttt.com)
 * [Zapier](https://zapier.com)
-* https://transloadit.com - File Upload and Media conversions
+* [Transloadit](https://transloadit.com) - **Media** File Upload and Media conversions
 
 ### Webforms
 
@@ -97,3 +97,9 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The internet
 ### Naked domain redirect
 * [wwwizer](http://wwwizer.com/naked-domain-redirect)
 
+### Themes
+* http://twitter.github.com/bootstrap/
+* https://wrapbootstrap.com
+
+### Temporary Splash Pages
+* [Launchrock](http://launchrock.com)
