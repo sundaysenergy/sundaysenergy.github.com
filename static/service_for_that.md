@@ -103,3 +103,10 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The internet
 
 ### Temporary Splash Pages
 * [Launchrock](http://launchrock.com)
+
+### Social Logins
+* Janrain
+* Gigya
+* Loginradius
+* Oneall
+* 
