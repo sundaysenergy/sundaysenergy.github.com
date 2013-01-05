@@ -42,6 +42,6 @@ If your site doesn't get updated much we can take a snapshot of the site and ser
 
 1. Move the site to our servers $149 and upgrade to the latest Drupal 5 for $100-300. Every $100 is service includes two months of standard hosting.
 1. Migrate the site directly to Drupal 7. We'd provide a quote for that after moving it to our servers.
-1. Archive the site and make it static (no Drupal login or admin interface). $149 includes the archive process and hosting for a full year. $40 per year to continue hosting it.
+1. Archive the site and make it static (no Drupal login or admin interface). $149 includes the archive process and hosting for a full year. $60 per year ($5/mo) to continue hosting it.
 
 Please contact us if you have any questions.

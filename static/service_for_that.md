@@ -26,14 +26,14 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The internet
 
 ### Webforms
 
-* [wufoo](http://www.wufoo.com)
+* [Wufoo](http://www.wufoo.com)
 * [webform](https://webform.com)
 
 ### Communications
 
-* [Twilio](http://www.twilio.com) Awesome API Telephony and SMS
-* [MailChimp](http://mailchimp.com) 2,000 subscribers, 12,000/mo
-* Campaign Monitor (CreateSend)
+* [Twilio](http://www.twilio.com/) Awesome API Telephony and SMS
+* [MailChimp](http://mailchimp.com/) 2,000 subscribers, 12,000/mo
+* [Campaign Monitor](http://www.campaignmonitor.com/) ("CreateSend" reseller option)
 
 ### Comments
 
@@ -49,19 +49,25 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The internet
 
 ### Payment Gateways
 
-* [Stripe](https://stripe.com* ) **2.9% + $0.30** Programmer based, easy to create an account. Has coupons, order obj, order-item obj.
-* [BrainTree](https://www.braintreepayments.com) **2.9% + $0.30** More difficult to get an account.
-* [Dwolla](https://www.dwolla.com)
-* Google Wallet
-* [Paypal](https://www.paypal.com)
+* [Stripe](https://stripe.com/) **2.9% + $0.30** Programmer based, easy to create an account. Has coupons, order obj, order-item obj.
+* [BrainTree](https://www.braintreepayments.com/) **2.9% + $0.30** More difficult to get an account.
+* [Dwolla](https://www.dwolla.com/)
+* [Google Wallet](http://www.google.com/wallet/)
+* [PayPal](https://www.paypal.com/)
 
 ### Dunning
 
-* http://bestunning.net
+* [Stunning](http://bestunning.net/)
+
+### Recurring Payments
+
+* [Chargify](http://chargify.com/)
+* [Recurly](http://recurly.com/)
+* [Stripe](https://stripe.com/)
 
 ### Calendar
 
-* Google Calendar (Can style from xml/rss stream)
+* [Google Calendar](http://www.google.com/calendar/) (Can style from xml/rss stream)
   * [gCalFlow](http://sugi.github.com/jquery-gcal-flow)
 
 ### Learn to code
@@ -70,36 +76,37 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The internet
 
 ### Analytics
 
-* RJ Metrics
-* http://lessneglect.com
-* https://www.custora.com
+* [RJ Metrics](https://www.rjmetrics.com/)
+* [Less Neglect](http://lessneglect.com/)
+* [Custora](https://www.custora.com/)
 
 ### Email delivery
 
-* http://sendgrid.com
-* Mandrill (Offers SMTP)
+* [SendGrid](http://sendgrid.com/)
+* [Mandrill](http://mandrill.com/) (offers SMTP)
 
 ### Project Management
 
-* https://sprint.ly
-* Trello
+* [Sprintly](https://sprint.ly/)
+* [Trello](https://trello.com/)
 
 ### File sharing and storage
-* Dropbox
-* Google Drive
-* https://www.box.com
+* [Dropbox](https://www.dropbox.com/)
+* [Google Drive](https://drive.google.com/)
+* [box](https://www.box.com/)
 
-### Search
-* http://www.tipue.com/search/
-* https://swiftype.com
-* http://www.google.com/cse/
+### Site Searching
+* [Tipue](http://www.tipue.com/search/)
+* [Swiftype](https://swiftype.com/)
+* [Google Custom Search Engine](http://www.google.com/cse/)
 
 ### Naked domain redirect
-* [wwwizer](http://wwwizer.com/naked-domain-redirect)
+* [wwwizer](http://wwwizer.com/naked-domain-redirect/)
 
 ### Themes
-* http://twitter.github.com/bootstrap/
-* https://wrapbootstrap.com
+* [Bootstrap](http://twitter.github.com/bootstrap/)
+* [WrapBootstrap](https://wrapbootstrap.com/)
+* [Template Monster](http://www.templatemonster.com/)
 
 ### Temporary Splash Pages
 * [Launchrock](http://launchrock.com)
