@@ -7,14 +7,14 @@ group: nav
 ---
 ## There is a service for that
 
-Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The internet has services.
+Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The Internet has services.
 
 ### Dropbox Hosting
 
 * [Site 44](http://www.site44.com)
 * [Scriptogram](http://scriptogr.am)
 * [Pancacke io](http://pancake.io)
-* [DopPages](http://droppages.com) This is the closest to the idea I have.
+* [DropPages](http://droppages.com) This is the closest to the idea I have.
 * [KISSr](http://www.kissr.com) $10/mo
 * [DropHost](http://www.drophost.net)
 
@@ -72,6 +72,10 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The internet
 
 * [Google Calendar](http://www.google.com/calendar/) (Can style from xml/rss stream)
   * [gCalFlow](http://sugi.github.com/jquery-gcal-flow)
+
+### Maps
+
+* [Google Maps](http://maps.google.com/)
 
 ### Learn to code
 
