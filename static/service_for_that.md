@@ -11,7 +11,7 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The Internet
 
 ### Dropbox Hosting
 
-* [Site 44](http://www.site44.com)
+* [Site 44](http://www.site44.com) $5/mo
 * [Scriptogram](http://scriptogr.am)
 * [Pancacke io](http://pancake.io)
 * [DropPages](http://droppages.com) This is the closest to the idea I have.
@@ -20,7 +20,7 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The Internet
 
 ### Script Hosting
 
-* [Webscript](https://www.webscript.io)
+* [Webscript](https://www.webscript.io) $5/mo
   * [Lua Underscore](http://mirven.github.com/underscore.lua)
 * [If This Than That](https://ifttt.com)
 * [Zapier](https://zapier.com)
@@ -86,6 +86,7 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The Internet
 * [RJ Metrics](https://www.rjmetrics.com/)
 * [Less Neglect](http://lessneglect.com/)
 * [Custora](https://www.custora.com/)
+* [Jirafe](http://jirafe.com)
 
 ### Email delivery
 

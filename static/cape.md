@@ -58,3 +58,6 @@ You'll only be as good as the mean of those around you. The Drupal community is 
 1. Small scale site builders who can leverage the power of Views, Fields, and the rich module ecosystem but aren't building sites complex enough to land them in "maintenance hell".
 
 2. Large organizations with small development teams that need a complex content/user model. Drupal does a good job of content modeling, revisions, localization, and has a decent plugin system.
+
+#### The simple things
+Say you want to show a specific set of characters in a post. Not easy when there is html involved. You have to exclude the html from the count.
