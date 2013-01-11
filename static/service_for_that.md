@@ -97,15 +97,15 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The Internet
 
 * [Sprintly](https://sprint.ly/)
 * [Trello](https://trello.com/)
-* PivotalTracker
-* Unfuddle
-* Asana
+* [Pivotal Tracker](http://www.pivotaltracker.com/)
+* [Unfuddle](https://unfuddle.com/)
+* [Asana](http://asana.com/)
 
 ### File sharing and storage
 * [Dropbox](https://www.dropbox.com/)
 * [Google Drive](https://drive.google.com/)
 * [box](https://www.box.com/)
-* [](https://droplr.com)
+* [droplr](https://droplr.com/)
 
 ### Site Searching
 * [Tipue](http://www.tipue.com/search/)
