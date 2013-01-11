@@ -124,19 +124,19 @@ Wordpress has "plugins". Drupal has "modules". iPhones have "apps". The Internet
 * [Launchrock](http://launchrock.com)
 
 ### Social Logins
-* Janrain
-* Gigya
-* Loginradius
-* Oneall
+* [Janrain](http://janrain.com/)
+* [Gigya](http://www.gigya.com/)
+* [LoginRadius](https://www.loginradius.com/)
+* [Oneall](http://www.oneall.com/)
 
 ### CRM
-* http://capsulecrm.com
-* SalesForce
+* [Capsule](http://capsulecrm.com/)
+* [SalesForce](http://www.salesforce.com/)
 
 #### Push Notifications
-* http://pusher.com - For the web
-* http://urbanairship.com - For mobile
+* [Pusher](http://pusher.com/) - For the web
+* [Urban Airship](http://urbanairship.com/) - For mobile
 
 ### Order Processing
-* https://www.ordoro.com
+* [ordoro](https://www.ordoro.com/)
 
