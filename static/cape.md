@@ -17,7 +17,7 @@ With a typical CMS, content can only be created on that website. This method for
 
 ### Emphasis on WYSIWYG Editors
 
-It has become standard that WYSIWYG editors are included for content editing in a CMS.  However, this often creates more problems than it solves. First, all editors try to convert WYSIWYG into HTML code, with varying degrees of success. WYSIWYG editors often make mistakes, and most users don't know enough HTML to fix them. Also, a WYSIWYG editor is less precise than editing by hand because it adds a layer between the designer and the code. Lastly, many people write their documents in Microsoft Word, and  paste that content into the WYSIWYG editor.  The WYSIWYG editor then tries to interpret the Word formatting and convert it to HTML, which yields very messy code that confuses web browsers and creates ugly web pages. 
+It has become standard that WYSIWYG editors are included for content editing in a CMS.  However, this often creates more problems than it solves. First, all editors try to convert WYSIWYG into HTML code, with varying degrees of success. WYSIWYG editors often make mistakes, and most users don't know enough HTML to fix them. In addition, a WYSIWYG editor is less precise than editing by hand because it adds a layer between the designer and the code. Also, many people write their documents in Microsoft Word, and  paste that content into the WYSIWYG editor.  The WYSIWYG editor then tries to interpret the Word formatting and convert it to HTML, which yields very messy code that confuses web browsers and creates ugly web pages. 
 
 ## Why switch to Create Anywhere Publish Everywhere (CAPE)?
 
