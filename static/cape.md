@@ -53,12 +53,12 @@ Don't Repeat Yourself (DRY) is a software development goal aimed at reducing rep
 
 You'll only be as good as the mean of those around you. The Drupal community is home to many semi-developer freelancers. Drupal enables a ton of functionality without being a programmer. Need some added functionality? There is a module for that. However, this module could have been written for a specific job and the maintainer is no longer getting paid to work on it.
 
-#### The simple things
+### The simple things
 Say you want to show a specific set of characters in a post. Not easy when there is html involved. You have to exclude the html from the count.
 
 ## When A Content Management System Does Make Sense
 
-#### Drupal is good for two main groups
+### Drupal is Good for Two Main Groups
 
 1. Small-scale site builders who can leverage the power of Views, Fields, and the rich module ecosystem but aren't building sites complex enough to land them in "maintenance hell".
 
