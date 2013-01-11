@@ -23,7 +23,7 @@ It has become standard that WYSIWYG editors are included for content editing in 
 
 ### Performance
 
-Content rarely changes. So it is a complete waste of resources to load a database along with the software to handle processing it into the final HTML markup. Also, it's difficult to get higher page-loading performance than when serving static files. Dynamic content can be handled with various third party javascript libraries. Ever get a notice from your host that your website is using too many resources? CPU or Memory issues will be gone forever when your site is statically cached.
+Content rarely changes. So it is major waste of resources to load a database along with the software to handle processing it into the final HTML markup. Also, it's difficult to get higher page-loading performance than when serving static files. Dynamic content can be handled with various third-party JavaScript libraries. Ever get a notice from your host that your website is using too many resources? CPU or memory issues will be gone forever when your site is statically cached.
 
 ### Data Protection
 
