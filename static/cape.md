@@ -15,8 +15,9 @@ Using Drupal or Wordpress requires software to be running on a server to dynamic
 
 With a typical CMS, content can only be created via that website. The method for adding content was designed to be like a “desktop” type device that was connected to the internet. This approach was fine when everyone did everything on a desktop computer. But now content creators have all kinds of devices they like to use for content creation. A good example is the iPad. It’s clumsy editing content via a website, and it's a much nicer experience using a native app that is a content editor.
 
-### Emphasis on 
-WYSIWYM
+### Emphasis on WYSIWYG Editors
+
+It has become standard practice for WYSIWYG editors to be included for editing page content in a CMS.  This seems to create more problems than it solves for many people.   First, HTML isn't WYSIWYG. All editors try to map WYSIWYG metaphors into HTML code - with varying degrees of success. WYSIWYG editors often make mistakes, and most casual users don't know enough HTML to be able to fix the errors created by the WYSIWYG editor. Also, HTML itself isn't a precise language and you often have to wrestle with your code to produce the exact result you want. A WYSIWYG editor is less precise than editing by hand because it adds a layer between the designer and the code. So the WYSIWYG editor gives a false sense of being in control of your content and that everything is happening in the correct way "under the hood". Lastly, many people write their documents in a program like Microsoft Word anyway, and then paste their document into the WYSIWYG editor.  Unfortunately, this creates confusion in many editors, as they try to interpret the Word formatting and convert it to HTML. It basically creates very messy code that confuses web browsers and creates ugly web pages! 
 
 ## Why switch to Create Anywhere Publish Everywhere (CAPE)?
 
