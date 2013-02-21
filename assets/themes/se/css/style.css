@@ -5,7 +5,7 @@ body,
 body #page-wrapper {
   background: url(../images/body.gif) top center repeat;
   font:13px/18px Arial, Helvetica, sans-serif;
-  color:#e1cebd;
+  color:green;
   position:relative;
   min-width:960px;
   -webkit-text-size-adjust: none;
