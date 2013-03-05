@@ -5,8 +5,8 @@ header: Pages
 
 ---
 
-# Life After Drupal 5 & 6?
-## Upgrading or Leaving Drupal
+## Life After Drupal 5 & 6?
+### Upgrading or Leaving Drupal
 
 If you have a Drupal 5 website, your site’s software was last up-to-date in 2011. Following the “[End of Life Announcement](http://drupal.org/node/1027214)”, Drupal 5 has no longer been an active, supported platform.
 
